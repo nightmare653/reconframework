@@ -1,0 +1,54 @@
+{
+    "projectOptions": {
+      "sessions": {
+        "checkSessionIsValid": true
+      },
+      "connections": {
+        "timeout": 30,
+        "proxySettings": {
+          "useProxy": false
+        }
+      },
+      "misc": {
+        "disableJavaScript": false
+      }
+    },
+    "proxy": {
+      "requestListeners": [
+        {
+          "listenerInterface": "127.0.0.1",
+          "listenerPort": 8080,
+          "useHttps": false
+        }
+      ]
+    },
+    "target": {
+      "scope": {
+        "advancedMode": true,
+        "exclude": [],
+        "include": [
+          {
+            "enabled": true,
+            "protocol": "http",
+            "host": ".*",
+            "port": ".*"
+          }
+        ]
+      }
+    },
+    "scanner": {
+      "activeScanning": false,
+      "passiveScanning": true
+    },
+    "crawler": {
+      "crawlInScopeOnly": false,
+      "includeFormSubmission": true,
+      "includeLogoutFunctions": false
+    },
+    "export": {
+      "autoSave": true,
+      "autoSaveIntervalMinutes": 2,
+      "projectFile": "./burp_project.burp"
+    }
+  }
+  

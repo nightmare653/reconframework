@@ -1,0 +1,6 @@
+{
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR...",
+    "Cookie": "login=test%2Ftest",
+    "X-CSRF-Token": "abcde12345"
+  }
+  

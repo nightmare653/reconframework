@@ -1,0 +1,8 @@
+https://myflixer.cx/tv-show?page=FUZZ
+https://myflixer.cx/top-imdb?type=FUZZ&page=FUZZ
+https://myflixer.cx/genre/sci-fi-fantasy?page=FUZZ
+https://myflixer.cx/ajax/verify?domain=FUZZ
+https://myflixer.cx/search/real-life?page=FUZZ
+https://myflixer.cx/movie?page=FUZZ
+https://myflixer.cx/top-imdb?type=FUZZ
+https://myflixer.cx/ajax/banners?page=FUZZ
