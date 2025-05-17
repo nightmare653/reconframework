@@ -4,6 +4,105 @@
 
 ---
 
+tools to be installed
+
+🔍 1. Subdomain Enumeration
+
+    ✅ subfinder
+
+    ✅ amass (passive)
+
+    ✅ subdominator
+
+🌐 2. DNS Resolution & Live Host Detection
+
+    ✅ dnsx (resolves all_subdomains.txt)
+
+    ✅ httpx
+
+    ✅ httprobe
+
+📸 3. Screenshot Capture
+
+    ✅ gowitness (replaces aquatone)
+
+⚡ 4. Port Scanning
+
+    ✅ nmap (quick scan on port 80/443)
+
+📜 5. JavaScript & Content Discovery
+
+    ✅ gau (old)
+
+    ✅ gauplus (planned to replace gau)
+
+    ✅ waybackurls
+
+    ✅ golinkfinder
+
+    ✅ hakrawler
+
+    ⏳ katana (pending)
+
+    ⏳ linkfinder, subjs, getJS, xnLinkFinder (planned via script integration)
+
+🧠 6. Tech Stack Detection
+
+    ✅ wappalyzer
+
+    ✅ whatweb
+
+🧬 7. Secrets & Sensitive Data Discovery
+
+    ✅ Gitleaks
+
+    ✅ SecretFinder (Python)
+
+    ✅ JSSecretScanner (custom)
+
+    ✅ RegexFlagger
+
+    ✅ Disclo
+
+    ✅ hakcheckurl
+
+🛠️ 8. Parameter & Vulnerability Scanning
+
+    ✅ gf (patterns: xss, sqli, ssrf, etc.)
+
+    ✅ paramspider
+
+    ✅ arjun
+
+    ✅ ffuf
+
+☁️ 9. 3rd-Party Exposure & Cloud Misconfig Detection
+
+    ✅ corsy
+
+    ✅ wpscan (WordPress detection if fingerprinted)
+
+    ⏳ git-hound, awsfinder, cloudfail, lazyS3 (pending full integration)
+
+🧠 10. AI Integration
+
+    ✅ AI Planner (LLaMA + attack reasoning)
+
+    ✅ AI Assistant Chatbot (Ollama-based, in UI)
+
+📊 11. Reporting & Summary
+
+    ✅ summary_writer.go
+
+    ✅ generate_summary.go
+
+    ✅ HTML Report Generation
+
+    ✅ Timeline & Stats Tracker
+
+    ✅ Screenshot Viewer in UI
+
+
 
 ## 🖥️ Streamlit Dashboard
 
